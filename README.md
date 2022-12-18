@@ -1,2 +1,2 @@
 # AluraBooks
-Projeto feito em curso sobre responsabilidade e mobile first da Alura
+Projeto feito em curso sobre responsividade e mobile first da Alura
